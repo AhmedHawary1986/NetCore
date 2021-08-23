@@ -1,0 +1,15 @@
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\bin\Debug\net5.0\GloboTicket.Ticketmanagement.Application.deps.json
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\bin\Debug\net5.0\GloboTicket.Ticketmanagement.Application.dll
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\bin\Debug\net5.0\ref\GloboTicket.Ticketmanagement.Application.dll
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\bin\Debug\net5.0\GloboTicket.Ticketmanagement.Application.pdb
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\obj\Debug\net5.0\GloboTicket.Ticketmanagement.Application.csprojAssemblyReference.cache
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\obj\Debug\net5.0\GloboTicket.Ticketmanagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\obj\Debug\net5.0\GloboTicket.Ticketmanagement.Application.AssemblyInfoInputs.cache
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\obj\Debug\net5.0\GloboTicket.Ticketmanagement.Application.AssemblyInfo.cs
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\obj\Debug\net5.0\GloboTicket.Ticketmanagement.Application.csproj.CoreCompileInputs.cache
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\obj\Debug\net5.0\GloboTicket.Ticketmanagement.Application.dll
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\obj\Debug\net5.0\ref\GloboTicket.Ticketmanagement.Application.dll
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\obj\Debug\net5.0\GloboTicket.Ticketmanagement.Application.pdb
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\bin\Debug\net5.0\GloboTicket.TicketManagement.Domain.dll
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\bin\Debug\net5.0\GloboTicket.TicketManagement.Domain.pdb
+C:\learn\.netCore\Architect\GloboTicket.TicketManagment\GloboTicket.Ticketmanagement.Application\obj\Debug\net5.0\GloboTicket.Ticketmanagement.Application.csproj.CopyComplete
